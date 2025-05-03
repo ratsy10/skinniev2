@@ -1,0 +1,61 @@
+day,severity_score,description,affected_area_percentage,image_path,modification_date
+1,35,Mild acne primarily on the forehead and upper cheeks. Some minor redness.,20,selfie-data\frame_0000.jpg,2025-05-02 20:36:18
+2,20,"Mild acne, primarily visible on the forehead and nose. There are also some freckles visible on the nose and cheeks.",10,selfie-data\frame_0033.jpg,2025-05-02 20:36:18
+3,25,"Mild acne primarily on the forehead and nose, with some subtle redness.",10,selfie-data\frame_0037.jpg,2025-05-02 20:36:18
+4,35,"Mild to moderate acne visible on the forehead, cheeks, and chin. Some redness is present around the affected areas.",15,selfie-data\frame_0041.jpg,2025-05-02 20:36:18
+5,40,"Mild to moderate acne, mostly on the forehead and cheeks.",25,selfie-data\frame_0044.jpg,2025-05-02 20:36:18
+6,30,Mild acne primarily on the forehead and nose. Some redness present.,15,selfie-data\frame_0052.jpg,2025-05-02 20:36:18
+7,30,Mild acne present on the forehead and cheeks.,10,selfie-data\frame_0056.jpg,2025-05-02 20:36:18
+8,40,Mild acne primarily on the forehead and cheeks.,20,selfie-data\frame_0063.jpg,2025-05-02 20:36:20
+9,30,Mild acne predominantly on the forehead and cheeks.,15,selfie-data\frame_0067.jpg,2025-05-02 20:36:20
+10,25,"Mild acne on forehead and nose, slight redness.",10,selfie-data\frame_0071.jpg,2025-05-02 20:36:20
+11,35,Mild acne mainly on the forehead and cheeks.,20,selfie-data\frame_0074.jpg,2025-05-02 20:36:20
+12,25,"Mild acne and some freckles are visible on the face, primarily on the forehead, nose, and cheeks. Some redness present.",15,selfie-data\frame_0078.jpg,2025-05-02 20:36:20
+13,20,Mild acne on forehead and nose.,5,selfie-data\frame_0082.jpg,2025-05-02 20:36:20
+14,25,"Mild acne on forehead and nose area, some redness.",10,selfie-data\frame_0086.jpg,2025-05-02 20:36:20
+15,30,Mild acne on the forehead and cheeks.,15,selfie-data\frame_0089.jpg,2025-05-02 20:36:20
+16,30,Mild acne visible primarily on forehead and nose. Some redness observed.,15,selfie-data\frame_0093.jpg,2025-05-02 20:36:20
+17,35,"Mild acne on the forehead and cheeks, with some visible redness.",20,selfie-data\frame_0101.jpg,2025-05-02 20:36:20
+18,30,Mild acne mainly on the forehead. Some small spots on the nose and cheeks.,15,selfie-data\frame_0104.jpg,2025-05-02 20:36:20
+19,35,Moderate acne mainly on the forehead and nose. Slight redness visible on the cheeks.,20,selfie-data\frame_0108.jpg,2025-05-02 20:36:20
+20,35,"Mild acne, mainly on the forehead and cheeks. Some minor redness around the nose.",15,selfie-data\frame_0112.jpg,2025-05-02 20:36:20
+21,30,"Mild acne visible on forehead and cheeks, with some minor redness.",15,selfie-data\frame_0116.jpg,2025-05-02 20:36:20
+22,35,Mild acne primarily on the forehead and cheeks. Some minor redness is also present.,20,selfie-data\frame_0119.jpg,2025-05-02 20:36:20
+23,30,Mild acne mainly on the forehead and some on the cheeks. Slight redness visible.,15,selfie-data\frame_0123.jpg,2025-05-02 20:36:20
+24,30,Mild acne mainly on the forehead and around the nose. Slight redness present.,15,selfie-data\frame_0127.jpg,2025-05-02 20:36:20
+25,35,Mild acne primarily on the forehead and some redness across the cheeks.,12,selfie-data\frame_0131.jpg,2025-05-02 20:36:20
+26,25,"Mild acne on forehead and nose, some redness present.",15,selfie-data\frame_0138.jpg,2025-05-02 20:36:20
+27,25,Mild acne primarily concentrated on the forehead and nose.,15,selfie-data\frame_0142.jpg,2025-05-02 20:36:20
+28,25,Mild acne primarily on the forehead and nose.,10,selfie-data\frame_0149.jpg,2025-05-02 20:36:20
+29,30,Mild acne mainly concentrated on the forehead and cheeks. Some visible redness.,20,selfie-data\frame_0153.jpg,2025-05-02 20:36:20
+30,30,Mild acne mainly on the forehead and cheeks.,15,selfie-data\frame_0160.jpg,2025-05-02 20:36:22
+31,35,"Mild acne primarily on the forehead, cheeks, and nose.",20,selfie-data\frame_0164.jpg,2025-05-02 20:36:22
+32,30,Mild acne visible on forehead and nose. Some redness on the nose.,15,selfie-data\frame_0168.jpg,2025-05-02 20:36:22
+33,30,"Mild acne and some freckles visible across the face, particularly on the forehead and cheeks. Slight redness present.",25,selfie-data\frame_0175.jpg,2025-05-02 20:36:22
+34,25,Mild acne primarily on the forehead and cheeks. Some visible redness.,15,selfie-data\frame_0179.jpg,2025-05-02 20:36:22
+35,35,Mild acne on the forehead and nose. Slight redness on the cheeks.,15,selfie-data\frame_0183.jpg,2025-05-02 20:36:22
+36,20,Mild acne present on the forehead and nose.,10,selfie-data\frame_0187.jpg,2025-05-02 20:36:22
+37,40,"Moderate acne, predominantly on forehead and cheeks. Some redness present.",30,selfie-data\frame_0190.jpg,2025-05-02 20:36:22
+38,25,Mild acne and redness primarily on the forehead and cheeks.,20,selfie-data\frame_0198.jpg,2025-05-02 20:36:22
+39,25,"Mild acne primarily on the forehead and nose, with slight redness observed.",15,selfie-data\frame_0202.jpg,2025-05-02 20:36:22
+40,15,"Some mild acne mainly concentrated on the forehead and nose, also some freckles visible. No significant redness or irritation detected.",10,selfie-data\frame_0205.jpg,2025-05-02 20:36:22
+41,30,"Mild acne on forehead and cheeks, slight redness around the nose.",15,selfie-data\frame_0209.jpg,2025-05-02 20:36:22
+42,25,"Mild acne primarily on the forehead and nose, with some slight redness.",10,selfie-data\frame_0213.jpg,2025-05-02 20:36:22
+43,30,Mild acne primarily on the forehead and cheeks. Some visible pores.,15,selfie-data\frame_0224.jpg,2025-05-02 20:36:22
+44,20,Mild acne primarily on the forehead and nose.,5,selfie-data\frame_0228.jpg,2025-05-02 20:36:22
+45,25,Mild acne primarily on the forehead and nose.,10,selfie-data\frame_0235.jpg,2025-05-02 20:36:22
+46,25,Mild acne and visible pores mainly on the forehead and nose.,15,selfie-data\frame_0247.jpg,2025-05-02 20:36:22
+47,30,"Mild acne mainly on the forehead and chin, with some slight redness around the nose.",15,selfie-data\frame_0254.jpg,2025-05-02 20:36:22
+48,30,"Mild acne on cheeks and chin, some redness present.",15,selfie-data\frame_0258.jpg,2025-05-02 20:36:22
+49,25,Mild acne primarily on the forehead and nose area.,10,selfie-data\frame_0262.jpg,2025-05-02 20:36:22
+50,30,"Mild acne, primarily on the forehead and cheeks, with slight redness.",10,selfie-data\frame_0265.jpg,2025-05-02 20:36:22
+51,20,"Mild acne, particularly on the forehead and nose.",10,selfie-data\frame_0269.jpg,2025-05-02 20:36:22
+52,20,Mild acne on the forehead and cheeks. Slight redness around the nose.,10,selfie-data\frame_0273.jpg,2025-05-02 20:36:22
+53,25,"Mild acne and some visible freckles on the face, especially on the nose and forehead.",15,selfie-data\frame_0277.jpg,2025-05-02 20:36:22
+54,30,Mild acne mainly on the forehead and some minor spots on the cheeks.,15,selfie-data\frame_0288.jpg,2025-05-02 20:36:22
+55,20,Mild acne on the forehead and cheeks.,10,selfie-data\frame_0292.jpg,2025-05-02 20:36:22
+56,25,Mild acne on the forehead and cheeks.,10,selfie-data\frame_0295.jpg,2025-05-02 20:36:22
+57,30,Mild acne visible on the forehead and cheeks. Some redness is present.,15,selfie-data\frame_0314.jpg,2025-05-02 20:36:24
+58,15,Mild acne on the chin area. There is also what appears to be marker or face paint on the left side of the face.,5,selfie-data\frame_0318.jpg,2025-05-02 20:36:24
+59,40,Moderate acne mainly on the forehead and cheeks with some redness.,30,selfie-data\frame_0322.jpg,2025-05-02 20:36:24
+60,25,"Mild acne and some redness are visible, primarily on the forehead and cheeks.",15,selfie-data\frame_0325.jpg,2025-05-02 20:36:24

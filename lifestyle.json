@@ -1,0 +1,542 @@
+[
+    {
+      "day": 1,
+      "severity_score": 35,
+      "sleep_hours": 7.5,
+      "diet": "balanced",
+      "stress": 3,
+      "weather": "warm",
+      "sunlight_minutes": 60
+    },
+    {
+      "day": 2,
+      "severity_score": 20,
+      "sleep_hours": 6.8,
+      "diet": "high protein",
+      "stress": 5,
+      "weather": "warm",
+      "sunlight_minutes": 75
+    },
+    {
+      "day": 3,
+      "severity_score": 25,
+      "sleep_hours": 8.1,
+      "diet": "balanced",
+      "stress": 2,
+      "weather": "humid",
+      "sunlight_minutes": 30
+    },
+    {
+      "day": 4,
+      "severity_score": 35,
+      "sleep_hours": 7.0,
+      "diet": "high sugar",
+      "stress": 7,
+      "weather": "humid",
+      "sunlight_minutes": 15
+    },
+    {
+      "day": 5,
+      "severity_score": 40,
+      "sleep_hours": 6.2,
+      "diet": "processed foods",
+      "stress": 8,
+      "weather": "dry",
+      "sunlight_minutes": 90
+    },
+    {
+      "day": 6,
+      "severity_score": 30,
+      "sleep_hours": 8.5,
+      "diet": "vegan",
+      "stress": 2,
+      "weather": "dry",
+      "sunlight_minutes": 105
+    },
+    {
+      "day": 7,
+      "severity_score": 30,
+      "sleep_hours": 9.0,
+      "diet": "balanced",
+      "stress": 1,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 8,
+      "severity_score": 40,
+      "sleep_hours": 7.2,
+      "diet": "high dairy",
+      "stress": 4,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 9,
+      "severity_score": 30,
+      "sleep_hours": 6.5,
+      "diet": "balanced",
+      "stress": 6,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 10,
+      "severity_score": 25,
+      "sleep_hours": 7.8,
+      "diet": "high sugar",
+      "stress": 5,
+      "weather": "warm",
+      "sunlight_minutes": 45
+    },
+    {
+      "day": 11,
+      "severity_score": 35,
+      "sleep_hours": 8.3,
+      "diet": "vegan",
+      "stress": 3,
+      "weather": "warm",
+      "sunlight_minutes": 90
+    },
+    {
+      "day": 12,
+      "severity_score": 25,
+      "sleep_hours": 7.0,
+      "diet": "balanced",
+      "stress": 4,
+      "weather": "warm",
+      "sunlight_minutes": 110
+    },
+    {
+      "day": 13,
+      "severity_score": 20,
+      "sleep_hours": 6.0,
+      "diet": "processed foods",
+      "stress": 9,
+      "weather": "humid",
+      "sunlight_minutes": 20
+    },
+    {
+      "day": 14,
+      "severity_score": 25,
+      "sleep_hours": 7.5,
+      "diet": "high dairy",
+      "stress": 6,
+      "weather": "humid",
+      "sunlight_minutes": 30
+    },
+    {
+      "day": 15,
+      "severity_score": 30,
+      "sleep_hours": 8.0,
+      "diet": "balanced",
+      "stress": 2,
+      "weather": "dry",
+      "sunlight_minutes": 80
+    },
+    {
+      "day": 16,
+      "severity_score": 30,
+      "sleep_hours": 7.3,
+      "diet": "high protein",
+      "stress": 3,
+      "weather": "dry",
+      "sunlight_minutes": 100
+    },
+    {
+      "day": 17,
+      "severity_score": 35,
+      "sleep_hours": 6.7,
+      "diet": "high sugar",
+      "stress": 7,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 18,
+      "severity_score": 30,
+      "sleep_hours": 7.9,
+      "diet": "vegan",
+      "stress": 4,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 19,
+      "severity_score": 35,
+      "sleep_hours": 8.6,
+      "diet": "balanced",
+      "stress": 1,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 20,
+      "severity_score": 35,
+      "sleep_hours": 7.1,
+      "diet": "high dairy",
+      "stress": 5,
+      "weather": "warm",
+      "sunlight_minutes": 50
+    },
+    {
+      "day": 21,
+      "severity_score": 30,
+      "sleep_hours": 6.4,
+      "diet": "processed foods",
+      "stress": 8,
+      "weather": "warm",
+      "sunlight_minutes": 70
+    },
+    {
+      "day": 22,
+      "severity_score": 35,
+      "sleep_hours": 8.8,
+      "diet": "vegan",
+      "stress": 2,
+      "weather": "warm",
+      "sunlight_minutes": 90
+    },
+    {
+      "day": 23,
+      "severity_score": 30,
+      "sleep_hours": 9.2,
+      "diet": "balanced",
+      "stress": 1,
+      "weather": "humid",
+      "sunlight_minutes": 10
+    },
+    {
+      "day": 24,
+      "severity_score": 30,
+      "sleep_hours": 7.4,
+      "diet": "high dairy",
+      "stress": 4,
+      "weather": "humid",
+      "sunlight_minutes": 25
+    },
+    {
+      "day": 25,
+      "severity_score": 35,
+      "sleep_hours": 6.6,
+      "diet": "balanced",
+      "stress": 6,
+      "weather": "dry",
+      "sunlight_minutes": 65
+    },
+    {
+      "day": 26,
+      "severity_score": 25,
+      "sleep_hours": 7.7,
+      "diet": "high sugar",
+      "stress": 5,
+      "weather": "dry",
+      "sunlight_minutes": 85
+    },
+    {
+      "day": 27,
+      "severity_score": 25,
+      "sleep_hours": 8.4,
+      "diet": "vegan",
+      "stress": 3,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 28,
+      "severity_score": 25,
+      "sleep_hours": 7.0,
+      "diet": "balanced",
+      "stress": 4,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 29,
+      "severity_score": 30,
+      "sleep_hours": 5.8,
+      "diet": "processed foods",
+      "stress": 9,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 30,
+      "severity_score": 30,
+      "sleep_hours": 7.6,
+      "diet": "high dairy",
+      "stress": 6,
+      "weather": "warm",
+      "sunlight_minutes": 40
+    },
+    {
+      "day": 31,
+      "severity_score": 35,
+      "sleep_hours": 7.9,
+      "diet": "balanced",
+      "stress": 2,
+      "weather": "warm",
+      "sunlight_minutes": 60
+    },
+    {
+      "day": 32,
+      "severity_score": 30,
+      "sleep_hours": 7.4,
+      "diet": "high protein",
+      "stress": 3,
+      "weather": "warm",
+      "sunlight_minutes": 80
+    },
+    {
+      "day": 33,
+      "severity_score": 30,
+      "sleep_hours": 6.9,
+      "diet": "high sugar",
+      "stress": 7,
+      "weather": "humid",
+      "sunlight_minutes": 20
+    },
+    {
+      "day": 34,
+      "severity_score": 25,
+      "sleep_hours": 8.0,
+      "diet": "vegan",
+      "stress": 4,
+      "weather": "humid",
+      "sunlight_minutes": 35
+    },
+    {
+      "day": 35,
+      "severity_score": 35,
+      "sleep_hours": 8.7,
+      "diet": "balanced",
+      "stress": 1,
+      "weather": "dry",
+      "sunlight_minutes": 75
+    },
+    {
+      "day": 36,
+      "severity_score": 20,
+      "sleep_hours": 7.2,
+      "diet": "high dairy",
+      "stress": 5,
+      "weather": "dry",
+      "sunlight_minutes": 95
+    },
+    {
+      "day": 37,
+      "severity_score": 40,
+      "sleep_hours": 6.3,
+      "diet": "processed foods",
+      "stress": 8,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 38,
+      "severity_score": 25,
+      "sleep_hours": 8.9,
+      "diet": "vegan",
+      "stress": 2,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 39,
+      "severity_score": 25,
+      "sleep_hours": 9.4,
+      "diet": "balanced",
+      "stress": 1,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 40,
+      "severity_score": 15,
+      "sleep_hours": 7.5,
+      "diet": "high dairy",
+      "stress": 4,
+      "weather": "warm",
+      "sunlight_minutes": 55
+    },
+    {
+      "day": 41,
+      "severity_score": 30,
+      "sleep_hours": 6.1,
+      "diet": "processed foods",
+      "stress": 9,
+      "weather": "warm",
+      "sunlight_minutes": 75
+    },
+    {
+      "day": 42,
+      "severity_score": 25,
+      "sleep_hours": 8.2,
+      "diet": "vegan",
+      "stress": 3,
+      "weather": "warm",
+      "sunlight_minutes": 95
+    },
+    {
+      "day": 43,
+      "severity_score": 30,
+      "sleep_hours": 9.0,
+      "diet": "balanced",
+      "stress": 2,
+      "weather": "humid",
+      "sunlight_minutes": 15
+    },
+    {
+      "day": 44,
+      "severity_score": 20,
+      "sleep_hours": 7.3,
+      "diet": "high dairy",
+      "stress": 5,
+      "weather": "humid",
+      "sunlight_minutes": 30
+    },
+    {
+      "day": 45,
+      "severity_score": 25,
+      "sleep_hours": 6.7,
+      "diet": "balanced",
+      "stress": 7,
+      "weather": "dry",
+      "sunlight_minutes": 70
+    },
+    {
+      "day": 46,
+      "severity_score": 25,
+      "sleep_hours": 7.8,
+      "diet": "high sugar",
+      "stress": 6,
+      "weather": "dry",
+      "sunlight_minutes": 90
+    },
+    {
+      "day": 47,
+      "severity_score": 30,
+      "sleep_hours": 8.5,
+      "diet": "vegan",
+      "stress": 3,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 48,
+      "severity_score": 30,
+      "sleep_hours": 7.1,
+      "diet": "balanced",
+      "stress": 4,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 49,
+      "severity_score": 25,
+      "sleep_hours": 5.9,
+      "diet": "processed foods",
+      "stress": 9,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 50,
+      "severity_score": 30,
+      "sleep_hours": 7.7,
+      "diet": "high dairy",
+      "stress": 6,
+      "weather": "warm",
+      "sunlight_minutes": 45
+    },
+    {
+      "day": 51,
+      "severity_score": 20,
+      "sleep_hours": 8.3,
+      "diet": "balanced",
+      "stress": 3,
+      "weather": "warm",
+      "sunlight_minutes": 65
+    },
+    {
+      "day": 52,
+      "severity_score": 20,
+      "sleep_hours": 7.0,
+      "diet": "high protein",
+      "stress": 4,
+      "weather": "warm",
+      "sunlight_minutes": 85
+    },
+    {
+      "day": 53,
+      "severity_score": 25,
+      "sleep_hours": 6.4,
+      "diet": "high sugar",
+      "stress": 8,
+      "weather": "humid",
+      "sunlight_minutes": 25
+    },
+    {
+      "day": 54,
+      "severity_score": 30,
+      "sleep_hours": 7.9,
+      "diet": "vegan",
+      "stress": 5,
+      "weather": "humid",
+      "sunlight_minutes": 40
+    },
+    {
+      "day": 55,
+      "severity_score": 20,
+      "sleep_hours": 8.6,
+      "diet": "balanced",
+      "stress": 2,
+      "weather": "dry",
+      "sunlight_minutes": 80
+    },
+    {
+      "day": 56,
+      "severity_score": 25,
+      "sleep_hours": 7.3,
+      "diet": "high dairy",
+      "stress": 6,
+      "weather": "dry",
+      "sunlight_minutes": 100
+    },
+    {
+      "day": 57,
+      "severity_score": 30,
+      "sleep_hours": 6.0,
+      "diet": "processed foods",
+      "stress": 10,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 58,
+      "severity_score": 15,
+      "sleep_hours": 9.1,
+      "diet": "vegan",
+      "stress": 1,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 59,
+      "severity_score": 40,
+      "sleep_hours": 9.8,
+      "diet": "balanced",
+      "stress": 1,
+      "weather": "cold",
+      "sunlight_minutes": 0
+    },
+    {
+      "day": 60,
+      "severity_score": 25,
+      "sleep_hours": 7.6,
+      "diet": "high dairy",
+      "stress": 3,
+      "weather": "warm",
+      "sunlight_minutes": 60
+    }
+  ]
